@@ -14,11 +14,13 @@ End-to-end data analysis project on 3,800 Premier League matches across 10 seaso
 - Source: Football-Data.co.uk
 
 ## Project Structure
+```
 EPL-Performance-Analysis/
 ├── Assets/           → All project screenshots
 ├── Excel/            → Interactive Excel Dashboard
 ├── SQL Scripts/      → Data pipeline and analysis scripts
 └── README.md
+```
 
 ## SQL Pipeline
 | File | Description |
